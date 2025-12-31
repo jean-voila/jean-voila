@@ -24,16 +24,6 @@
 - 💻 Also enjoy **full-stack development** when needed
 - ⚡ **Fast learner** who thrives on new challenges
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jean-voila&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
-</div>
-
-
 
 ---
 
