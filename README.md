@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there! 👋 I'm Jean
+# Hi ! 👋 I'm Jean
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Rust+%26+Systems+Enthusiast;Cryptography+Explorer;Clean+Software+Design+Advocate;Fast+Learner)](https://git.io/typing-svg)
 
