@@ -2,12 +2,7 @@
   
 # Hi ! 👋 I'm Jean
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Rust+%26+Systems+Enthusiast;Cryptography+Explorer;Clean+Software+Design+Advocate;Fast+Learner)](https://git.io/typing-svg)
-
 <p>
-  <a href="https://github.com/jean-voila?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jean-voila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=jean-voila&label=Profile%20views&color=6C63FF&style=for-the-badge"/>
 </p>
 
