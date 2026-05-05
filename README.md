@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi ! 👋 I'm Jean
+# Hi ! I'm Jean
 
 <p>
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=jean-voila&label=Profile%20views&color=6C63FF&style=for-the-badge"/>
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 **Computer Engineering Student** passionate about building robust systems
 - 🦀 **Rust & Systems Enthusiast** – I love low-level programming and performance optimization
